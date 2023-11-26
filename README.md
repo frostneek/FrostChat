@@ -8,10 +8,11 @@ FrostChat is a real-time chat application with features like user authentication
 - **Real-time Messaging:** Instant messaging with socket.io for real-time communication.
 - **Moderation Commands:** Admins and moderators can manage users through commands like kick, mute, promote, etc.
 - **Profanity Filter:** Filters and logs messages containing profanity.
-- **Whisper/Private Messaging:** Users can send private messages to each other.
 - **Role-based Access:** Different roles (User, Moderator, Admin, etc.) with role-specific commands.
 
-## Getting Started
+## Private Servers
+1. Go [here](https://frostchat-server-main.frostneek.repl.co) and fork it.
+2. Go to [line 7 of index.js](https://replit.com/@frostneek/frostchat-server-main#file://index.js:7) and replace it with your own server link.
 
 ### Prerequisites
 
