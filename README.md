@@ -17,11 +17,3 @@ FrostChat is a real-time chat application with features like user authentication
 
 - [Node.js](https://nodejs.org/) installed on your machine.
 - Internet connectivity for socket communication.
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/@frostneek/FrostChat.git
-   cd FrostChat
